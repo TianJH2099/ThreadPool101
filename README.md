@@ -52,6 +52,6 @@ template <typename type> ret-type func-name(parameter list)
 }
 ```
 
-### 3. 万能应用、完美转发
+### 3. 万能引用、完美转发
 
 我也没搞懂，先放这里
