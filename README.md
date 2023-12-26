@@ -4,15 +4,7 @@
 
 Productor-Consumer model
 
-主要根据陈子青C++11多线程教程所写（
-
-[视频]: https://www.bilibili.com/video/BV1d841117SH/?p=9&amp;spm_id_from=pageDriver&amp;vd_source=570ff1a15052703f27eac470febed0f9	"C++11 多线程编程-小白零基础到手撕线程池"
-
-、
-
-[网站]: http://www.seestudy.cn/	"陈子青的编程学习课堂"
-
-）
+主要根据陈子青C++11多线程教程所写（[视频](https://www.bilibili.com/video/BV1d841117SH/?p=9&spm_id_from=pageDriver&vd_source=570ff1a15052703f27eac470febed0f9)、[网站](http://www.seestudy.cn/)）
 
 ## 2. knowledge point except thread pool
 
